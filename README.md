@@ -2,9 +2,9 @@
 
 ## **Introdución**
 
-El corazón de **CSS Conf Colombia** es la gente. Ponemos a las personas primero y hacemos nuestro mejor esfuerzo para reconocer, apreciar y respetar la diversidad de todos los participantes. **CSS Conf Colombia** agradece las contribuciones de todos los que comparten nuestros objetivos y desean contribuir de manera saludable y constructiva dentro de nuestra comunidad. Como tal, hemos adoptado este código de conducta y exigimos a todos los que participan que estén de acuerdo y se adhieran a estas pautas para ayudarnos a crear una experiencia comunitaria segura y positiva para todos.
+El corazón de **CSS Conf Colombia** es la gente. Ponemos a las personas primero y hacemos nuestro mejor esfuerzo para reconocer, apreciar y respetar la diversidad de todos los participantes. **CSS Conf Colombia** agradece las participaciones de todos los que comparten nuestros objetivos y desean participar de manera saludable y constructiva dentro de nuestra conferencia. Como tal, hemos adoptado este código de conducta y exigimos a todos los que participan que estén de acuerdo y se adhieran a estas pautas para ayudarnos a crear una experiencia segura y positiva para todos.
 
-Estas pautas apuntan a apoyar una comunidad donde todas las personas deben sentirse seguras para participar, presentar nuevas ideas e inspirar a otros, independientemente de:
+Estas pautas apuntan a apoyar una conferencia donde todas las personas deben sentirse seguras para participar, presentar nuevas ideas e inspirar a otros, independientemente de:
 
 - Estado Familiar
 - Género
@@ -27,7 +27,7 @@ Estas pautas existen para permitir que diversos individuos y grupos interactúen
 
 ## **Nuestros estándares**
 
-**CSS Conf Colombia** se dedicará a garantizar que cada espacio (virtual o presencial) en que participemos como comunidad sea una experiencia positiva para todos.
+**CSS Conf Colombia** se dedicará a garantizar que cada espacio (virtual o presencial) en que participemos como conferencia sea una experiencia positiva para todos.
 
 Estos son algunos ejemplos de comportamientos que contribuyen a crear un ambiente positivo:
 
@@ -36,15 +36,15 @@ Estos son algunos ejemplos de comportamientos que contribuyen a crear un ambient
 - Uso de un lenguaje acogedor e inclusivo
 - Ser respetuoso con los diferentes puntos de vista y experiencias del resto
 - Aceptar de buen grado las críticas constructivas
-- Enfocarse en lo que es mejor para la comunidad
-- Mostrar empatía hacia otros miembros de la comunidad
+- Enfocarse en lo que es mejor para la conferencia
+- Mostrar empatía hacia otros miembros de la conferencia
 
 Ejemplos de comportamiento inaceptable incluyen:
 
 - Acoso a los participantes en cualquier forma
 - Intimidación deliberada, acecho o seguimiento
 - Amenazas o uso de lenguaje violento contra otra persona
-- Uso de lenguaje o imágenes sexuales en cualquier espacio (virtual o presencial) en que participe la comunidad, incluídas las charlas
+- Uso de lenguaje o imágenes sexuales en cualquier espacio (virtual o presencial) en que participe la conferencia, incluídas las charlas
 - Insultos o humillaciones
 - Bromas sexistas, racistas, homofóbicas, transfóbicas, capacitadoras o excluyentes
 - Atención sexual no deseada
@@ -54,21 +54,21 @@ Ejemplos de comportamiento inaceptable incluyen:
 
 ## **Cuándo y cómo deben usarse estas pautas**
 
-Estas pautas describen cómo esperamos que se comporten los miembros de la comunidad de **CSS Conf Colombia** en todas las actividades de esta. Esto incluye a nuestros organizadores, voluntarios, así como a los asistentes a los tutoriales o talleres, charlas, recepciones, charlas patrocinadas, cualquier actividad de networking o eventos no oficiales, además de nuestros patrocinadores y proveedores, en todos los espacios comunes, ya sea virtuales o presenciales.
+Estas pautas describen cómo esperamos que se comporten los miembros de la conferencia de **CSS Conf Colombia** en todas las actividades de esta. Esto incluye a nuestros organizadores, voluntarios, así como a los asistentes a los tutoriales o talleres, charlas, recepciones, charlas patrocinadas, cualquier actividad de networking o eventos no oficiales, además de nuestros patrocinadores y proveedores, en todos los espacios comunes, ya sea virtuales o presenciales.
 
 Para participar, se debe seguir estas pautas en todas las actividades de **CSS Conf Colombia**. Se incluyen, entre otras, las siguientes:
 
 - La representación de **CSS Conf Colombia** en eventos públicos presenciales o virtuales.
-- La representación de **CSS Conf Colombia** en las redes sociales (cuentas oficiales, meetup.com, cuentas personales).
+- La representación de **CSS Conf Colombia** en las redes sociales (cuentas oficiales, cuentas personales).
 - La participación en foros relacionados con **CSS Conf Colombia**, listas de correo, wikis, sitios web, canales de chat, reuniones en grupo o cara a cara, y la correspondencia relacionada con **CSS Conf Colombia**.
 
 ## **Consecuencias de un comportamiento inaceptable**
 
-No creemos que todo conflicto sea malo; un debate y un desacuerdo saludables a menudo producen resultados positivos. Sin embargo, nunca está bien ser irrespetuoso o participar en un comportamiento que viole el código de conducta de la comunidad **CSS Conf Colombia**.
+No creemos que todo conflicto sea malo; un debate y un desacuerdo saludables a menudo producen resultados positivos. Sin embargo, nunca está bien ser irrespetuoso o participar en un comportamiento que viole el código de conducta de la conferencia **CSS Conf Colombia**.
 
-El comportamiento inaceptable de cualquier miembro de la comunidad, incluidos los organizadores y aquellos con autoridad para tomar decisiones, no será tolerado. Se espera que cualquier persona que pida que deje de comportarse de manera inaceptable cumpla de inmediato.
+El comportamiento inaceptable de cualquier miembro de la conferencia, incluidos los organizadores y aquellos con autoridad para tomar decisiones, no será tolerado. Se espera que cualquier persona que pida que deje de comportarse de manera inaceptable cumpla de inmediato.
 
-Si un miembro de la comunidad tiene un comportamiento inaceptable, los organizadores pueden tomar cualquier acción que consideren apropiada, incluyendo una expulsión temporal o expulsión permanente de la comunidad sin previo aviso.
+Si un miembro de la conferencia tiene un comportamiento inaceptable, los organizadores pueden tomar cualquier acción que consideren apropiada, incluyendo una expulsión temporal o expulsión permanente de la conferencia sin previo aviso.
 
 Además, se considerará que todos los participantes que abusen del proceso de denuncia también estarán infringiendo estas pautas y quedarán sujetos a las mismas consecuencias. No se aceptarán ni tolerarán denuncias falsas, especialmente con propósitos de exclusión o represalias.
 
@@ -84,7 +84,7 @@ Puede hacer un reporte de forma anónima en el siguiente formulario[1]. No podem
 
 **Reportar en persona:**
 
-Puede reportar un incidente con algún co-organizador de la comunidad **CSS Conf Colombia**:
+Puede reportar un incidente con algún organizador de la conferencia **CSS Conf Colombia**:
 
 - Luisa Vaca
 - Estefany Aguilar
@@ -92,8 +92,9 @@ Puede reportar un incidente con algún co-organizador de la comunidad **CSS Conf
 - Santiago Sanchez
 
 En Twitter: Mensaje directo a @cssconfco
+En Instagram: Mensaje directo a @cssconf
 
-Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador de la comunidad para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y , por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
+Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador de la conferencia para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
 
 ## **Atribución**
 
