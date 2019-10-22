@@ -50,7 +50,7 @@ Ejemplos de comportamiento inaceptable incluyen:
 - Atención sexual no deseada
 - Contacto físico no deseado
 - Interrupción sostenida de las ponencias u otros eventos
-- Otra conducta inapropiada para un público profesional, incluyendo a personas de diferentes conocimientos
+- Otra conducta inapropiada para un público profesional
 
 ## **Cuándo y cómo deben usarse estas pautas**
 
