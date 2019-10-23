@@ -91,8 +91,7 @@ Puede reportar un incidente con algún organizador de la conferencia **CSS Conf 
 - Guillermo Rodas
 - Santiago Sanchez
 
-En Twitter: Mensaje directo a @cssconfco
-En Instagram: Mensaje directo a @cssconf
+En Twitter y/o Instagram, mensaje directo a @cssconfco    
 
 Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador de la conferencia para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
 
