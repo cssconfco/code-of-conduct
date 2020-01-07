@@ -101,14 +101,14 @@ El Código de Conducta de **CSS Conf Colombia** ha sido creado a partir de una p
 
 Esta declaración agradece lo siguiente, en la cual se basa en contenido e inspiración:
 
-[https://github.com/medellincss/codigo-de-conducta](https://github.com/medellincss/codigo-de-conducta)
+- [https://github.com/medellincss/codigo-de-conducta](https://github.com/medellincss/codigo-de-conducta)
 
-[https://www.djangoproject.com/conduct/](https://www.djangoproject.com/conduct/) 
+- [https://www.djangoproject.com/conduct/](https://www.djangoproject.com/conduct/) 
 
-[http://2018.jsday.es/es/code-of-conduct-es.html](http://2018.jsday.es/es/code-of-conduct-es.html)
+- [http://2018.jsday.es/es/code-of-conduct-es.html](http://2018.jsday.es/es/code-of-conduct-es.html)
 
-[https://github.com/colombia-dev/codigo-de-conducta](https://github.com/colombia-dev/codigo-de-conducta)
+- [https://github.com/colombia-dev/codigo-de-conducta](https://github.com/colombia-dev/codigo-de-conducta)
 
-[https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/](https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/)
+- [https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/](https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/)
 
-[https://www.mozilla.org/en-US/about/governance/policies/participation/](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+- [https://www.mozilla.org/en-US/about/governance/policies/participation/](https://www.mozilla.org/en-US/about/governance/policies/participation/)
