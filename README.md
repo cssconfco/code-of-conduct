@@ -1,6 +1,8 @@
-# Código de conducta
+# Español
 
-## **Introdución**
+## Código de conducta
+
+### **Introdución**
 
 El corazón de **CSS Conf Colombia** es la gente. Ponemos a las personas primero y hacemos nuestro mejor esfuerzo para reconocer, apreciar y respetar la diversidad de todos los participantes. **CSS Conf Colombia** agradece las participaciones de todos los que comparten nuestros objetivos y desean participar de manera saludable y constructiva dentro de nuestra conferencia. Como tal, hemos adoptado este código de conducta y exigimos a todos los que participan que estén de acuerdo y se adhieran a estas pautas para ayudarnos a crear una experiencia segura y positiva para todos.
 
@@ -25,7 +27,7 @@ O cualquier otra dimensión de diversidad.
 
 Estas pautas existen para permitir que diversos individuos y grupos interactúen y colaboren en beneficio mutuo. En este documento describiremos el comportamiento esperado y prohibido.
 
-## **Nuestros estándares**
+### **Nuestros estándares**
 
 **CSS Conf Colombia** se dedicará a garantizar que cada espacio (virtual o presencial) en que participemos como conferencia sea una experiencia positiva para todos.
 
@@ -52,7 +54,7 @@ Ejemplos de comportamiento inaceptable incluyen:
 - Interrupción sostenida de las ponencias u otros eventos
 - Otra conducta inapropiada para un público profesional
 
-## **Cuándo y cómo deben usarse estas pautas**
+### **Cuándo y cómo deben usarse estas pautas**
 
 Estas pautas describen cómo esperamos que se comporten los miembros de la conferencia de **CSS Conf Colombia** en todas las actividades de esta. Esto incluye a nuestros organizadores, voluntarios, así como a los asistentes a los tutoriales o talleres, charlas, recepciones, charlas patrocinadas, cualquier actividad de networking o eventos no oficiales, además de nuestros patrocinadores y proveedores, en todos los espacios comunes, ya sea virtuales o presenciales.
 
@@ -62,7 +64,7 @@ Para participar, se debe seguir estas pautas en todas las actividades de **CSS C
 - La representación de **CSS Conf Colombia** en las redes sociales (cuentas oficiales, cuentas personales).
 - La participación en foros relacionados con **CSS Conf Colombia**, listas de correo, wikis, sitios web, canales de chat, reuniones en grupo o cara a cara, y la correspondencia relacionada con **CSS Conf Colombia**.
 
-## **Consecuencias de un comportamiento inaceptable**
+### **Consecuencias de un comportamiento inaceptable**
 
 No creemos que todo conflicto sea malo; un debate y un desacuerdo saludables a menudo producen resultados positivos. Sin embargo, nunca está bien ser irrespetuoso o participar en un comportamiento que viole el código de conducta de la conferencia **CSS Conf Colombia**.
 
@@ -72,7 +74,7 @@ Si un miembro de la conferencia tiene un comportamiento inaceptable, los organiz
 
 Además, se considerará que todos los participantes que abusen del proceso de denuncia también estarán infringiendo estas pautas y quedarán sujetos a las mismas consecuencias. No se aceptarán ni tolerarán denuncias falsas, especialmente con propósitos de exclusión o represalias.
 
-## **Cómo reportar**
+### **Cómo reportar**
 
 Si se cree que alguien ha violado este Código de Conducta, le animamos a que nos informe. Si no se tiene la certeza de si el incidente es una infracción, o si el espacio donde sucedió está cubierto por este Código de Conducta, le recomendamos que lo reporte de todos modos. Aceptamos de muy buen agrado recibir informes en los que decidamos no realizar ninguna acción por el bien de crear un espacio más seguro.
 
@@ -95,7 +97,7 @@ En Twitter y/o Instagram, mensaje directo a @cssconfco
 
 Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador de la conferencia para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
 
-## **Atribución**
+### **Atribución**
 
 El Código de Conducta de **CSS Conf Colombia** ha sido creado a partir de una política de conducta de ejemplo de Geek Feminism wiki, está bajo una licencia Creative Commons Zero license.
 
