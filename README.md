@@ -1,6 +1,4 @@
-# Español
-
-## Código de conducta
+## Español
 
 ### **Introdución**
 
